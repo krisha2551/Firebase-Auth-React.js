@@ -5,8 +5,6 @@ A simple React application that allows users to login/signup using Firebase Auth
 📸 Screenshots
 
 <img width="1920" height="972" alt="image" src="https://github.com/user-attachments/assets/1a9cc6e4-778a-4add-b82e-06fc0956e5a2" />
-
-
 🚀 Features
 
 ✔ Email & Password Login
